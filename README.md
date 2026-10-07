@@ -48,4 +48,4 @@
             <Button x:Name="btnExit" Content="Выход" Width="80" Margin="5" Click="btnExit_Click"/>
         </StackPanel>
     </Grid>
-</Window>
+</Window>  . 
